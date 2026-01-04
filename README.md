@@ -1,25 +1,28 @@
-## Hello there! I'm Aaron Verceles
+## Hello there! I'm Aaron Verceles 👋
 
-My name is Aaron. I'm currently an undergraduate student pursuing a BS in Computer Science with a specialization in Software Engineering. I’ve always found mathematics captivating, not to mention the way its problems can be solved elegantly through code. I'm passionate about learning new technologies and understanding the mechanics behind how they work.
+My name is Aaron. I'm currently an undergraduate student pursuing a BS in Computer Science with a specialization in Software Engineering. I’ve always found mathematics captivating, and I love the elegance of solving complex problems through code. I'm passionate about learning new technologies and understanding the mechanics behind how they work.
 
-Although I’ve already explored several areas, I recognize that I’m still early in my journey. I’m actively diving into fields like full-stack development, data structures, web development, competitive programming, and UI/UX design to discover where my true passion lies.
+I am actively diving into fields like full-stack development, data science, competitive programming, and UI/UX design to discover where my true passion lies.
+
+---
 
 ### 🛠️ Tech Stack
-**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Web & Frameworks** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Languages & Databases** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tools & OS** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Data Science & Game Dev** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-111111?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Web Styling** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
+---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="135" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aarndv&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" height="135" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarndv&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="135" />
 </p>
+
+---
+
+### 📫 Reach Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaron-verceles-52a69b330) 
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:aarondaleverceles@gmail.com)
