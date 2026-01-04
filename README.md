@@ -1,4 +1,4 @@
-## Hello there! I'm Aaron
+## I'm Aaron
 
 I'm currently an undergraduate student pursuing a BS in Computer Science with a specialization in Software Engineering. I’ve always found mathematics captivating, and I love the elegance of solving complex problems through code. I'm passionate about learning new technologies and understanding the mechanics behind how they work.
 
