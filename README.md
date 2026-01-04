@@ -13,13 +13,6 @@ I am actively diving into fields like full-stack development, data science, comp
 **Data Science & Game Dev** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-111111?style=flat-square&logo=python&logoColor=white)
 
 **Tools & Web Styling** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarndv&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarndv&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="135" />
-</p>
 
 ---
 
