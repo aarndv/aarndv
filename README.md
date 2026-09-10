@@ -18,7 +18,7 @@ I am actively diving into fields like full-stack development, data science, comp
 
 ### 📫 Reach Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaron-verceles-52a69b330) 
-[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:aarondaleverceles@gmail.com)
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:aadverceles@gmail.com)
 
 #### Credits
 Profile picture sourced from the visual novel **Steins;Gate**.
