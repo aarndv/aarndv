@@ -1,8 +1,10 @@
 ## I'm Aaron
 
-I'm currently an undergraduate student pursuing a BS in Computer Science with a specialization in Software Engineering. I’ve always found mathematics captivating, and I love the elegance of solving complex problems through code. I'm passionate about learning new technologies and understanding the mechanics behind how they work.
+Hi! I'm Aaron, a Computer Science student currently working on my undergrad thesis and diving into AI development. I love turning math into code, especially when it comes to evolutionary tech like genetic algorithms—imagine watching billions of years of evolution unfold on your screen in real time! Right now, I build with Python, C++, and web tech across full-stack dev and UI/UX design. Always open to internships, mentorship, or cool open-source projects!
 
-I am actively diving into fields like full-stack development, data science, competitive programming, and UI/UX design to discover where my true passion lies.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mCruz98/Genetic-Algorithm-Visualizer/main/assets/demo.gif" width="600" alt="Genetic Algorithm Live Evolution Simulation"/>
+</p>
 
 ---
 
