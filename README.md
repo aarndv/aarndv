@@ -2,10 +2,6 @@
 
 Hi! I'm Aaron, a Computer Science student currently working on my undergrad thesis and diving into AI development. I love turning math into code, especially when it comes to evolutionary tech like genetic algorithms—imagine watching billions of years of evolution unfold on your screen in real time! Right now, I build with Python, C++, and web tech across full-stack dev and UI/UX design. Always open to internships, mentorship, or cool open-source projects!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mCruz98/Genetic-Algorithm-Visualizer/main/assets/demo.gif" width="600" alt="Genetic Algorithm Live Evolution Simulation"/>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
